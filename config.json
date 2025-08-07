@@ -1,0 +1,18 @@
+{
+  "token": "MzgyMzAzMTY4MjgyNzU1MDcy.DPTvKA.i5XsgEumhx7vMcEDXjdUUcKdHco",
+  "idowner": "368700038488129538",
+  "version": "1.2 Build 2",
+  "prefix": ">",
+  "status": "online",
+  "game": "Type \">help -H\" for help!",
+  "helpM": "[>help -M]: Shows this message!\n[>play]: Plays music\n[>add <yt_link>]: Adds music to the queue (YT links only)\n[>queue]: Shows the queue\n[>v+]: Increase volume\n[>v-]: Decreases volume\n\nFor more help options, type \">help -H\"",
+  "helpH": "[>help -H]: Shows help command list\n[>help -G]: Shows General command list\n[>help -MD]: Shows Moderator commands\n[>help -O]: Shows owner only commands\n[>help -M]: Shows music commands\n[>help -F]: Shows Fun commands",
+  "helpG": "",
+  "helpMD": "Error",
+  "helpO": "Error",
+  "helpF": "Error",
+  "errorYTLink": "```Markdown\n< Error with SkyBot v1.0 >\n[Error]: That's not a valid YouTube link!\n< The file failed to play. >\n[Error code]: SBE45```",
+  "errorMusicPlay": "```Markdown\n< Error with SkyBot v1.0 >\n[Error]: Oh dear! The music has stopped!\n< The music file has stopped unexpectedly. >\n[Error code]: SBE31```",
+  "errorNoPerm": "```Markdown\n< SkyBot v1.0 >\n[Text]: You have no permission!\n< The command failed to execute. >\n[Error code]: SBE19```",
+  "errorCS": "```Markdown\n< Error with SkyBot v1.0 >\n[Error]: This command is currently under maintenance!\n< The command failed to execute. >\n[Error code]: SBE71```"
+ }

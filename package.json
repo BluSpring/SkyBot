@@ -1,0 +1,26 @@
+{
+  "name": "SkyBot",
+  "version": "1.0.0",
+  "description": "A bot that works as an example of PowerBand Console in Sky City: The Protectors coming soon.",
+  "main": "skybot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Discord-Webhook": "^0.1.0",
+    "discord.js": "^11.3.0",
+    "discord.js-musicbot-addon": "^1.5.1",
+    "forever-monitor": "^1.7.1",
+    "fs": "0.0.1-security",
+    "i": "^0.3.6",
+    "npm": "^5.6.0",
+    "opusscript": "0.0.6",
+    "webhook-discord": "^2.1.0",
+    "ytdl-core": "^0.15.0"
+  },
+  "devDependencies": {
+    "electron": "^1.8.2"
+  }
+}
